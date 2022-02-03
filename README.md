@@ -1,5 +1,5 @@
 # Cryptoanarchy TODO
-
+This list collects ideas to further develop or work on that further the cause of cryptoanarchy and give people sovereignty. It was inspired by an [article by smuggler](http://opaque.link/post/future-security-todo/) ([archive](https://archive.md/AP0k1)) (and contains some copypasta from there). Please help to improve it by opening PRs. There should probably be sub-pages for certain topics going into more detail. Maybe there should also be a tag system to later make the list filtereable for maturity of ideas and other aspects.
 
 ## Commerce
 * Low trust all-or-nothing escrow systems
